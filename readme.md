@@ -1,4 +1,6 @@
-# Чат-бот на JS 🛠
+# Чат-бот на JS 
+
+(Meetup SaratovJS 2019)
 
 Для работы бота необходимо скачать [Node JS](https://nodejs.org/en/)
 ![node-js](https://pp.userapi.com/c853528/v853528007/45c22/s65geLWzOlc.jpg)
